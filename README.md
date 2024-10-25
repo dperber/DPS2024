@@ -19,3 +19,5 @@
 ## Juan José Solano Solano solano-juanjo
 
 ## Reyna Almanzar ralmanzar512
+
+## Nombre y apellidos: Francesco Frosolini - Usuario GitHub: fedonecchia-es
